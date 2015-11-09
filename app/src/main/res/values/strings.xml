@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Barcelona Places</string>
+    <string name="sync_account_type">barcelonaplaces.jpuyo.com</string>
+    <string name="content_authority">com.jpuyo.barcelonaplaces.app</string>
+    <string name="label_empty"></string>
+    <string name="label_phone">Tel:</string>
+    <string name="label_fax">Fax:</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="error_action_maps_activity_not_found">Maps call failed...Have you installed google maps?</string>
+    <string name="error_action_phone_activity_not_found">Oooooops. Phone call failed...Winter is coming.Look for help!</string>
+    <string name="error_action_phone_phone_not_found">Phone not found...</string>
+    <string name="error_action_email_activity_not_found">Oooooops... That email is not good!</string>
+    <string name="error_action_email_email_not_found">Email not found...</string>
+    <string name="error_action_refresh">Ooooops... You need a internet connection!Look for a bar with wifi and refresh!</string>
+</resources>

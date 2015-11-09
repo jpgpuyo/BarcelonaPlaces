@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jpuyo/barcelonaplaces/app/database/DatabaseContract.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jpuyo/barcelonaplaces/app/database/DatabaseHelper.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jpuyo/barcelonaplaces/app/services/authentication/Authenticator.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jpuyo/barcelonaplaces/app/services/authentication/AuthenticatorService.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jpuyo/barcelonaplaces/app/services/placesdownload/PlacesDownload.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jpuyo/barcelonaplaces/app/services/placesdownload/PlacesDownloadService.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

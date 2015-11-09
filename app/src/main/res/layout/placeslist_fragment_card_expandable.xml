@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:padding="20dp"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:orientation="vertical">
+
+    <com.jpuyo.barcelonaplaces.app.ui.components.NotNullableTextView
+        android:id="@+id/card_place_address"
+        style="@style/PlacesTextViewStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+    <com.jpuyo.barcelonaplaces.app.ui.components.NotNullableTextView
+        android:id="@+id/card_place_email"
+        style="@style/PlacesTextViewStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+    <com.jpuyo.barcelonaplaces.app.ui.components.NotNullableTextView
+        android:id="@+id/card_place_phone"
+        style="@style/PlacesTextViewStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+    <com.jpuyo.barcelonaplaces.app.ui.components.NotNullableTextView
+        android:id="@+id/card_place_fax"
+        style="@style/PlacesTextViewStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/card_place_transport_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+        <com.jpuyo.barcelonaplaces.app.ui.components.NotNullableTextView
+            android:id="@+id/card_place_transport_station"
+            style="@style/PlacesTextViewStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center_vertical"
+            />
+
+        <ImageView
+            android:id="@+id/card_place_transport_line_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/action_maps"
+            android:src="@drawable/ic_place"
+            android:layout_weight="1"
+            />
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/action_phone"
+            android:src="@drawable/ic_phone"
+            android:layout_weight="1"
+            />
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/action_email"
+            android:src="@drawable/ic_email"
+            android:layout_weight="1"
+            />
+
+        </LinearLayout>
+
+
+
+</LinearLayout>
