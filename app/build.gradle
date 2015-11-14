@@ -28,4 +28,6 @@ dependencies {
     compile 'com.android.support:recyclerview-v7:22.0.+'
     compile 'com.github.gabrielemariotti.cards:cardslib-core:2.1.0'
     compile 'com.android.support:design:22.2.0'
+    compile 'com.j256.ormlite:ormlite-core:4.48'
+    compile 'com.j256.ormlite:ormlite-android:4.48'
 }
