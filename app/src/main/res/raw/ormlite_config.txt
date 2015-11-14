@@ -1,0 +1,35 @@
+#
+# generated on 2015/11/14 05:32:48
+#
+# --table-start--
+dataClass=com.jpuyo.barcelonaplaces.app.services.placesdownload.retrofit.PlaceDetails
+tableName=place_details
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=title
+# --field-end--
+# --field-start--
+fieldName=address
+# --field-end--
+# --field-start--
+fieldName=transport
+# --field-end--
+# --field-start--
+fieldName=email
+# --field-end--
+# --field-start--
+fieldName=geocoordinates
+# --field-end--
+# --field-start--
+fieldName=description
+# --field-end--
+# --field-start--
+fieldName=phone
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
